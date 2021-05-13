@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loomisb a Front End Developer and US Marine Corps veteran.
-- 👀 I’m interested in a full time position as a Front End Developer/Engineer.
-- 🌱 I’m currently learning full stack software engineering.
+- 👀 I’m interested in JavaScript, React.js and React Native.
+- 🌱 I’m currently learning node.js and express.js.
 - 💞️ I’m looking to collaborate on front end development projects.
 - 📫 How to reach me loomis.blaine@gmail.com
 
