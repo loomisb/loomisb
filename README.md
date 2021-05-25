@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @loomisb a Front End Developer and US Marine Corps veteran.
-- 👀 I’m interested in JavaScript, React.js and React Native.
-- 🌱 I’m currently learning node.js and express.js.
-- 💞️ I’m looking to collaborate on front end development projects.
+- 👋 Hi, I’m @loomisb a Software Engineer and US Marine Corps veteran.
+- 👀 I’m interested in JavaScript, React.js and React Native, Java, C++, and SQL.
+- 🌱 I’m currently learning Database Management Systems, SQL.
+- 💞️ I’m looking to work with a software engineering team.
 - 📫 How to reach me loomis.blaine@gmail.com
 
 <!---
