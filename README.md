@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @loomisb a Software Engineer and US Marine Corps veteran.
-- 👀 I’m interested in JavaScript, React.js and React Native, Java, C++, and SQL.
-- 🌱 I’m currently learning Database Management Systems, SQL.
-- 💞️ I’m looking to work with a software engineering team.
+- 👋 Hi, I’m @loomisb a Junior Software Engineer and US Marine Corps veteran.
+- 👀 I’m interested in Software Development using various programming languages.
+- 🌱 I’m currently learning C++ and Information Security practices.
+- 💞️ I’m looking to learn new technologies.
 - 📫 How to reach me loomis.blaine@gmail.com
 
 <!---
