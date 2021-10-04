@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loomisb a Junior Software Engineer and US Marine Corps veteran.
 - 👀 I’m interested in Software Engineering using various programming languages.
-- 🌱 I’m currently learning C++ and Information Security practices.
+- 🌱 I’m currently learning C++ at the University and ReactJS on my own.
 - 💞️ I’m looking to learn new technologies.
 - 📫 How to reach me loomis.blaine@gmail.com
 
