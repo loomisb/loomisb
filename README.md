@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @loomisb a Junior Software Engineer and US Marine Corps veteran.
-- 👀 I’m interested in Software Engineering using various programming languages.
-- 🌱 I’m currently learning C++ at the University and ReactJS on my own.
-- 💞️ I’m looking to learn new technologies.
-- 📫 How to reach me loomis.blaine@gmail.com
+- 👋 Hi, I’m Blaine Loomis, a Software Developer and US Marine Corps veteran.
+- 👀 I’m interested in Software Development and Product Management.
+- 🌱 I’m currently learning C++ at the Western Governors University and ReactJS on my own.
+- 📫 How to reach me loomis.blaine@outlook.com
 
 <!---
 loomisb/loomisb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
